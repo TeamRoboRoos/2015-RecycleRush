@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 796158386cb52f35882be4ea3baf7a3e91cd07e0 Maddy Byass <maddy.byass@roboroos.org.au> 1423043635 +1030	clone: from git@scott.awakeupcall.info:2015forcepush
+796158386cb52f35882be4ea3baf7a3e91cd07e0 69bfdb86b6dfce145147f8d367d7ec85dceffdee Maddy Byass <maddy.byass@roboroos.org.au> 1423044409 +1030	checkout: moving from master to 69bfdb86b6dfce145147f8d367d7ec85dceffdee
+69bfdb86b6dfce145147f8d367d7ec85dceffdee 69bfdb86b6dfce145147f8d367d7ec85dceffdee Maddy Byass <maddy.byass@roboroos.org.au> 1423274777 +1030	checkout: moving from 69bfdb86b6dfce145147f8d367d7ec85dceffdee to FigureEight
+69bfdb86b6dfce145147f8d367d7ec85dceffdee 2b64ee2a48375fff5784f1f4f309ace647248618 Maddy Byass <maddy.byass@roboroos.org.au> 1423274941 +1030	commit: Added Figure 8. (Robot.java)
+2b64ee2a48375fff5784f1f4f309ace647248618 7c2044dc724c2b05503e86dbe6209dccf9e45221 Maddy Byass <maddy.byass@roboroos.org.au> 1423375660 +1030	pull origin FigureEight: Fast-forward
+7c2044dc724c2b05503e86dbe6209dccf9e45221 bedfed44e3c25d2558d1893a5065f82d2b85f4a5 Maddy Byass <maddy.byass@roboroos.org.au> 1423376694 +1030	commit (merge): Merge remote-tracking branch 'origin/Adam-Test' into FigureEight
+bedfed44e3c25d2558d1893a5065f82d2b85f4a5 ea0d0cfa94ca33cf2225fd2aa2ffe57803ceca12 Maddy Byass <maddy.byass@roboroos.org.au> 1423379951 +1030	commit: Better Code (Robot.java)
+ea0d0cfa94ca33cf2225fd2aa2ffe57803ceca12 20440ecd8d8d5f49887ea4e3b04bbe80e46389f9 Maddy Byass <maddy.byass@roboroos.org.au> 1423380007 +1030	commit (amend): Better Figure 8 Code (Robot.java)
+20440ecd8d8d5f49887ea4e3b04bbe80e46389f9 b83167f2bf407e394bbed89f95806d60d1fa81f9 Maddy Byass <maddy.byass@roboroos.org.au> 1423380248 +1030	commit (merge): Merge branch 'FigureEight' of scott.awakeupcall.info:2015forcepush into FigureEight
+b83167f2bf407e394bbed89f95806d60d1fa81f9 dfc99c8aca7e44d3acaf5254ac4ac7ffcfbea581 Maddy Byass <maddy.byass@roboroos.org.au> 1423385811 +1030	commit: Fixed clockwise
+dfc99c8aca7e44d3acaf5254ac4ac7ffcfbea581 1d1fa67aa8f1463718e3255f65bf8b00aef91600 Maddy Byass <maddy.byass@roboroos.org.au> 1424072991 +1030	commit: Better Figure 8 Code
+1d1fa67aa8f1463718e3255f65bf8b00aef91600 796158386cb52f35882be4ea3baf7a3e91cd07e0 Maddy Byass <maddy.byass@roboroos.org.au> 1424073456 +1030	checkout: moving from FigureEight to master
+796158386cb52f35882be4ea3baf7a3e91cd07e0 7e173edac3afa8a258475290f31e386132673467 Maddy Byass <maddy.byass@roboroos.org.au> 1424073490 +1030	pull origin master: Fast-forward
+7e173edac3afa8a258475290f31e386132673467 91c98ef6707aefa54cf6f188fea226f37bfc3eea Maddy Byass <maddy.byass@roboroos.org.au> 1424073700 +1030	checkout: moving from master to Structural-experiements
+91c98ef6707aefa54cf6f188fea226f37bfc3eea 1d1fa67aa8f1463718e3255f65bf8b00aef91600 Maddy Byass <maddy.byass@roboroos.org.au> 1424074014 +1030	checkout: moving from Structural-experiements to FigureEight
+1d1fa67aa8f1463718e3255f65bf8b00aef91600 91c98ef6707aefa54cf6f188fea226f37bfc3eea Maddy Byass <maddy.byass@roboroos.org.au> 1424074624 +1030	checkout: moving from FigureEight to Structural-experiements
+91c98ef6707aefa54cf6f188fea226f37bfc3eea bc786d7c0a90a2ef6976a21df629fb795cc65333 Maddy Byass <maddy.byass@roboroos.org.au> 1424076147 +1030	commit: Figure 8 code
+bc786d7c0a90a2ef6976a21df629fb795cc65333 aa607f804318b692f2bae79d33edfbf8c3255413 Maddy Byass <maddy.byass@roboroos.org.au> 1424076336 +1030	pull origin Structural-experiements: Merge made by the 'recursive' strategy.
+aa607f804318b692f2bae79d33edfbf8c3255413 7e173edac3afa8a258475290f31e386132673467 Maddy Byass <maddy.byass@roboroos.org.au> 1424164310 +1030	checkout: moving from Structural-experiements to master
+7e173edac3afa8a258475290f31e386132673467 723ab4e6802344b56cdf64b1ac59f654f609606b Maddy Byass <maddy.byass@roboroos.org.au> 1424165195 +1030	checkout: moving from master to origin/FigureEight
+723ab4e6802344b56cdf64b1ac59f654f609606b d6bc169afdd41aadce5a9ab4243693e7f7601f86 Maddy Byass <maddy.byass@roboroos.org.au> 1424167655 +1030	checkout: moving from 723ab4e6802344b56cdf64b1ac59f654f609606b to origin/Structural-experiements
+d6bc169afdd41aadce5a9ab4243693e7f7601f86 2e498a44b08d17ee71847074b193e2ee86ca0a94 Maddy Byass <maddy.byass@roboroos.org.au> 1424173289 +1030	commit: Added comments, removed unneeded code. (Lift.java)
+2e498a44b08d17ee71847074b193e2ee86ca0a94 316e0f38e5360d3e56b8bfd62d604243a242a83b Maddy Byass <maddy.byass@roboroos.org.au> 1425776950 +1030	rebase: checkout origin/Structural-experiements
+316e0f38e5360d3e56b8bfd62d604243a242a83b 2e498a44b08d17ee71847074b193e2ee86ca0a94 Maddy Byass <maddy.byass@roboroos.org.au> 1425777524 +1030	rebase: updating HEAD
+2e498a44b08d17ee71847074b193e2ee86ca0a94 2e498a44b08d17ee71847074b193e2ee86ca0a94 Maddy Byass <maddy.byass@roboroos.org.au> 1425777613 +1030	checkout: moving from 2e498a44b08d17ee71847074b193e2ee86ca0a94 to Structural-experiments
+2e498a44b08d17ee71847074b193e2ee86ca0a94 d6e7307e1c4bf719b9d3e3705b383091da57d4f6 Maddy Byass <maddy.byass@roboroos.org.au> 1425777798 +1030	rebase: checkout origin/Structural-experiements
+d6e7307e1c4bf719b9d3e3705b383091da57d4f6 2e498a44b08d17ee71847074b193e2ee86ca0a94 Maddy Byass <maddy.byass@roboroos.org.au> 1425777873 +1030	rebase: aborting
+2e498a44b08d17ee71847074b193e2ee86ca0a94 d6e7307e1c4bf719b9d3e3705b383091da57d4f6 Maddy Byass <maddy.byass@roboroos.org.au> 1425777939 +1030	rebase: checkout origin/Structural-experiements
+d6e7307e1c4bf719b9d3e3705b383091da57d4f6 cae1fd0065c8290f53ad595711b0726fa6b7a772 Maddy Byass <maddy.byass@roboroos.org.au> 1425778659 +1030	rebase: Added comments, removed unneeded code. (Lift.java)
+cae1fd0065c8290f53ad595711b0726fa6b7a772 cae1fd0065c8290f53ad595711b0726fa6b7a772 Maddy Byass <maddy.byass@roboroos.org.au> 1425778660 +1030	rebase finished: returning to refs/heads/Structural-experiments
+cae1fd0065c8290f53ad595711b0726fa6b7a772 d6e7307e1c4bf719b9d3e3705b383091da57d4f6 Maddy Byass <maddy.byass@roboroos.org.au> 1425779020 +1030	checkout: moving from Structural-experiments to Structural-experiements
+d6e7307e1c4bf719b9d3e3705b383091da57d4f6 cae1fd0065c8290f53ad595711b0726fa6b7a772 Maddy Byass <maddy.byass@roboroos.org.au> 1425779042 +1030	pull origin Structural-experiments: Fast-forward
+cae1fd0065c8290f53ad595711b0726fa6b7a772 7fcceec16c3084e9b64013ec53ff77c03b0b0b5f Maddy Byass <maddy.byass@roboroos.org.au> 1501407155 +0930	checkout: moving from Structural-experiements to origin/Structural-experiements

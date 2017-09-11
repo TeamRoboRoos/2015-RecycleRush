@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastUsedView>Log</LastUsedView>
+  <AutoRefresh>true</AutoRefresh>
+  <DraftCommitMsg />
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+    <string>Remotes</string>
+    <string>Remotes/origin</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>140</SidebarWidth>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <LastCheckedRemotes>2017-07-30T19:08:49.7487965+09:30</LastCheckedRemotes>
+  <RemoteProjectLinks />
+  <CommitTextLinks />
+  <SubtreeLinks />
+  <IncomingSavedCount>0</IncomingSavedCount>
+  <OutgoingSavedCount>0</OutgoingSavedCount>
+</RepositoryCustomSettings>
