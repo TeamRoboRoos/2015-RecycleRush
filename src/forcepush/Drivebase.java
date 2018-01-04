@@ -18,6 +18,7 @@ public class Drivebase
     
 	private double multiplier; //maximum 1.0, minimum 0.0 (negative inverts)
 	private double defaultMultiplier; // Default value to reset to
+	private double defaultTurnMultiplier;
 	
 	private boolean squaredInputs = true; //squares the inputs for fine-grained control
 	
@@ -62,7 +63,8 @@ public class Drivebase
 		
 		SmartDashboard.putNumber(Robot.SPEED_MULTIPLIER, 2.5);
         
-        this.defaultMultiplier = 0.75f;
+        this.defaultMultiplier = 0.6f;
+        this.defaultTurnMultiplier = 0.5f;
         
         this.isMoving = false;
         
@@ -403,7 +405,7 @@ public class Drivebase
 		
 		this.robotDrive.mecanumDrive_Cartesian(x * this.multiplier * this.direction,
 				                               y * this.multiplier * this.direction, 
-				                               z * this.multiplier * this.direction, 
+				                               z * this.defaultTurnMultiplier * this.direction, 
 				                               0);
 	}
 	
